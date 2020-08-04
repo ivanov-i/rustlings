@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-cd ~/rust/learn/rustlings/
+cd ~/rust/rustlings/
 tmux start-server
 session="rustlings"
 
